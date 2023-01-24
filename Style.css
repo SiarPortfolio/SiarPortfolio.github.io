@@ -386,6 +386,13 @@ a{
 
 }
 
+.visit_website{
+    color: black;
+}
+
+.visit_website:hover{
+    color: darkmagenta;
+}
 
 .project_text{
     width: 35%;
